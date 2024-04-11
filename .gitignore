@@ -1,0 +1,7 @@
+.gitignore.txt
+.ipynb_checkpoints/
+detection_module.py
+distilled-vit-beans/
+plant-disease-severity/
+wandb/
+PlantDoc-Dataset/
